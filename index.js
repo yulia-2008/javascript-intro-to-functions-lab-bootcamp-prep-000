@@ -3,7 +3,7 @@ function whisper(string){return string.toLowerCase()}
 function logShout(string) { console.log(string.toUpperCase())}
 function logWhisper(string) { console.log(string.toLowerCase())}
 function sayHiToGrandma(string)
- console.log(string.toLowerCase()) {return "I cant hear you."}
+ console.log(string.toLow {return "I cant hear you."}
 
  
 
